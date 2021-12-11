@@ -17,7 +17,7 @@ while jg <= 10:
     if jg == Pc:
         print('PARABENS !! VOCE CONSEGUIU ME VENCER !!')
     else:
-        print('ERRADO !!, EU PENSEI NO NUMERO {} E NÃO NO NUMERO {}'.format(Pc, jg))
+        print('ERRADO !!, EU PENSEI NO NUMERO {} E NÃO O NUMERO {}'.format(Pc, jg))
         break
 else:
     print('Opção invalida')
